@@ -1,4 +1,4 @@
 FileOutputClass
 ===============
 
-A simple clas to manage filestreams and filstream output.
+A simple class to manage filestreams and filestream output.
